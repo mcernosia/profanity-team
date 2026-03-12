@@ -10,10 +10,10 @@ Each plugin gives Claude a specific role and expertise area within the studio. T
 
 | Plugin | Name | Role |
 |--------|------|------|
-| `profanity-virtual-producer` | **Sloane Wilder** | Virtual Producer — proposals, scoping, client communication, project documentation |
-| `profanity-creative-vcd` | **VCD** | Virtual Creative Director — concepts, moodboards, style frames, animation treatments |
-| `profanity-biz-dev` | **Reid** | Biz Dev — cold outreach, pitch prep, pipeline follow-up, market positioning |
-| `profanity-nora` | **Nora** | Social Media Manager — Instagram, LinkedIn, content calendars, growth strategy |
+| `profanity-virtual-producer` | **Sloane Wilder** | Producer — proposals, scoping, client communication, project documentation |
+| `profanity-creative-vcd` | **Kai Morrow** | Creative Director — concepts, moodboards, style frames, animation treatments |
+| `profanity-biz-dev` | **Reid Calloway** | Biz Dev — cold outreach, pitch prep, pipeline follow-up, market positioning |
+| `profanity-nora` | **Nora Beckett** | Social Media Manager — Instagram, LinkedIn, content calendars, growth strategy |
 | `profanity-dusty` | **Dusty Jones** | Copywriter — studio copy, client copy, long-form content, voice editing |
 
 ---
@@ -26,7 +26,7 @@ Plugins are triggered automatically when you describe a task that matches their 
 
 ```
 /proposal  /scope  /email  /brief       ← Sloane (Virtual Producer)
-/concept   /treatment  /styleframe      ← VCD (Creative Director)
+/concept   /treatment  /styleframe      ← Kai (Creative Director)
 /outreach  /follow-up  /pitch-prep      ← Reid (Biz Dev)
 /post      /plan  /launch  /grow        ← Nora (Social)
 /write     /edit  /studio-copy          ← Dusty (Copy)
@@ -39,9 +39,9 @@ Plugins are triggered automatically when you describe a task that matches their 
 ```
 profanity-team/
 ├── profanity-virtual-producer/   # Sloane Wilder
-├── profanity-creative-vcd/       # Virtual Creative Director
-├── profanity-biz-dev/            # Reid
-├── profanity-nora/               # Nora
+├── profanity-creative-vcd/       # Kai Morrow
+├── profanity-biz-dev/            # Reid Calloway
+├── profanity-nora/               # Nora Beckett
 └── profanity-dusty/              # Dusty Jones
 ```
 
