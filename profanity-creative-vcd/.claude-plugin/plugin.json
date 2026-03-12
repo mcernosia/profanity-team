@@ -1,0 +1,10 @@
+{
+  "name": "profanity-creative-vcd",
+  "version": "0.1.0",
+  "description": "Virtual Creative Director for Profanity Creative — concept development, moodboard direction, style frames, and animation treatments for 3D product visualization.",
+  "author": {
+    "name": "Mark Cernosia",
+    "email": "mark@mfcdesigns.com"
+  },
+  "keywords": ["creative-direction", "3d-visualization", "moodboard", "animation", "product-viz", "outdoor-brands"]
+}
