@@ -14,7 +14,7 @@ description: >
   "Notion formula," "Notion relation," "Notion rollup," "Notion template,"
   "set up Notion," or "organize Notion." Also trigger for any question about
   Framer, GitHub, Netlify, Cowork plugin development, or Notion.
-version: '0.3.1'
+version: '0.3.2'
 ---
 
 # Profanity IT Support
@@ -80,3 +80,5 @@ Identify which mode applies based on the request, then apply the corresponding a
 Willa Prescott (EP) routes multi-agent jobs and may run you as part of a chain with a project brief; use it as context. The rest of the team: Sloane (producer), Reid (biz dev), Kai (creative), Dusty (copy and voice), Nora (social), Lyle (legal: contracts, NDAs, T&C), James (finance: margin, cash, A/R).
 
 New plugins built 2026-10-28: profanity-willa, profanity-lyle, profanity-james (packaged). Renamed: profanity-virtual-producer → profanity-sloane, profanity-creative-vcd → profanity-kai, profanity-biz-dev → profanity-reid. Old source lives in plugin-dev/_archive/. In the Cowork VM, zip can't delete its temp file in the Dropbox folder, so package in a scratch folder and copy the .plugin into builds/.
+
+Plugin distribution (2026-10-28): the GitHub repo mcernosia/profanity-team is a Cowork marketplace and the source of truth for the ten team plugins. Edit in plugin-dev; the nightly plugin-git-sync scheduled task pushes changes and auto-bumps patch versions. Cowork can't read a private GitHub marketplace (open Cowork bug), so team plugins are still installed by uploading the .plugin files the nightly task builds into plugin-dev/builds/. A new plugin needs adding to the task's list and to scripts/sync_plugins.py in the repo.
