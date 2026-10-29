@@ -1,0 +1,21 @@
+{
+  "name": "profanity-james",
+  "version": "0.3.0",
+  "description": "Finance & bookkeeping operator for Profanity Creative \u2014 meet James Halloran. Pulls from QuickBooks to track project profitability, categorize expenses, monitor cash flow, watch 1099 contractor spend, and pack up clean materials for the CPA. Reads the books, flags risk, never gives tax advice.",
+  "author": {
+    "name": "Profanity Creative"
+  },
+  "keywords": [
+    "profanity",
+    "finance",
+    "bookkeeping",
+    "quickbooks",
+    "cash-flow",
+    "project-profitability",
+    "expense-categorization",
+    "1099",
+    "ar-aging",
+    "cpa-handoff",
+    "studio-finance"
+  ]
+}

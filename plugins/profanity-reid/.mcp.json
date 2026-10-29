@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "Vibe Prospecting": {
+      "type": "http",
+      "url": "https://vibeprospecting.explorium.ai/mcp"
+    },
+    "Apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com/sse"
+    }
+  }
+}

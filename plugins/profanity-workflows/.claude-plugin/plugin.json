@@ -1,0 +1,16 @@
+{
+  "name": "profanity-workflows",
+  "version": "0.1.2",
+  "description": "Automated workflow chains for Profanity Creative \u2014 run full agent pipelines with a single command. Content Engine and Post-Mortem Pipeline.",
+  "author": {
+    "name": "Profanity Creative"
+  },
+  "keywords": [
+    "profanity",
+    "workflows",
+    "content-engine",
+    "post-mortem",
+    "automation",
+    "pipeline"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "profanity-virtual-producer",
-  "version": "0.1.0",
-  "description": "Virtual Producer for Profanity Creative — handles proposals, scoping, client communication, and project documentation so Mark can stay in the creative.",
-  "author": {
-    "name": "Profanity Creative"
-  },
-  "keywords": ["profanity", "creative", "studio", "proposals", "scoping", "client-communication", "production"]
-}

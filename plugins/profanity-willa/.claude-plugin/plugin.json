@@ -1,0 +1,9 @@
+{
+  "name": "profanity-willa",
+  "version": "0.1.0",
+  "description": "Willa Prescott, EP for Profanity Creative. Mark's right hand: takes any ask, routes it to the right agent, runs the chain end to end and hands back one package. Never does the specialist work herself.",
+  "author": {
+    "name": "Profanity Creative"
+  },
+  "keywords": ["profanity", "executive-producer", "orchestration", "routing", "delegation", "workflow", "status"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "profanity-sloane",
+  "version": "0.8.0",
+  "description": "Virtual Producer for Profanity Creative \u2014 handles proposals, scoping, client communication, project documentation, post-mortems, and quick call/update logging so Mark can stay in the creative.",
+  "author": {
+    "name": "Profanity Creative"
+  },
+  "keywords": [
+    "profanity",
+    "creative",
+    "studio",
+    "proposals",
+    "scoping",
+    "client-communication",
+    "production",
+    "post-mortem",
+    "call-logging",
+    "project-updates"
+  ]
+}

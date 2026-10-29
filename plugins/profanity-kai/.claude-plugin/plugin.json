@@ -1,0 +1,22 @@
+{
+  "name": "profanity-kai",
+  "version": "0.4.0",
+  "description": "Virtual Creative Director for Profanity Creative \u2014 concept development, moodboard direction, style frames, and animation treatments for 3D product visualization.",
+  "author": {
+    "name": "Mark Cernosia",
+    "email": "mark@profanity.tv"
+  },
+  "keywords": [
+    "creative direction",
+    "moodboard",
+    "style frames",
+    "treatment",
+    "3D product viz",
+    "concepting",
+    "creative-direction",
+    "3d-visualization",
+    "animation",
+    "product-viz",
+    "outdoor-brands"
+  ]
+}

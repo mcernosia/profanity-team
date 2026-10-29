@@ -1,0 +1,71 @@
+{
+  "name": "profanity",
+  "owner": {
+    "name": "Mark Cernosia"
+  },
+  "metadata": {
+    "description": "Profanity Creative's agent team plugins. Source of truth; edited in Dropbox plugin-dev and pushed nightly."
+  },
+  "plugins": [
+    {
+      "name": "profanity-willa",
+      "source": "./plugins/profanity-willa",
+      "description": "Willa Prescott, EP for Profanity Creative. Mark's right hand: takes any ask, routes it to the right agent, runs the chain end to end and hands back one package. Never does the specialist work herself.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "profanity-lyle",
+      "source": "./plugins/profanity-lyle",
+      "description": "Lyle Whitlock, legal for Profanity Creative. Runs Anthropic's Legal plugin against Profanity's own playbook: client contract review, NDA triage, and upkeep of the studio's T&C and SOW terms. Preps the call; an attorney makes it.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "profanity-james",
+      "source": "./plugins/profanity-james",
+      "description": "Finance & bookkeeping operator for Profanity Creative \u2014 meet James Halloran. Pulls from QuickBooks to track project profitability, categorize expenses, monitor cash flow, watch 1099 contractor spend, and pack up clean materials for the CPA. Reads the books, flags risk, never gives tax advice.",
+      "version": "0.3.0"
+    },
+    {
+      "name": "profanity-sloane",
+      "source": "./plugins/profanity-sloane",
+      "description": "Virtual Producer for Profanity Creative \u2014 handles proposals, scoping, client communication, project documentation, post-mortems, and quick call/update logging so Mark can stay in the creative.",
+      "version": "0.8.0"
+    },
+    {
+      "name": "profanity-reid",
+      "source": "./plugins/profanity-reid",
+      "description": "Reid Calloway (Biz Dev) + Deck Builder for Profanity Creative. Helps Mark find, approach, and close the right clients in outdoor, lifestyle, and action sports \u2014 and build presentation decks in Profanity's signature dark, minimal style.",
+      "version": "0.4.0"
+    },
+    {
+      "name": "profanity-kai",
+      "source": "./plugins/profanity-kai",
+      "description": "Virtual Creative Director for Profanity Creative \u2014 concept development, moodboard direction, style frames, and animation treatments for 3D product visualization.",
+      "version": "0.4.0"
+    },
+    {
+      "name": "profanity-dusty",
+      "source": "./plugins/profanity-dusty",
+      "description": "Dusty Jones \u2014 in-house copywriter for Profanity Creative. Studio copy, long-form content, client brand copy, voice editing, and SEO optimization.",
+      "version": "0.3.1"
+    },
+    {
+      "name": "profanity-nora",
+      "source": "./plugins/profanity-nora",
+      "description": "Nora Beckett \u2014 Social Media Manager for Profanity Creative. Post creation, content planning, project launches, and growth strategy for Instagram and LinkedIn.",
+      "version": "0.3.1"
+    },
+    {
+      "name": "profanity-it",
+      "source": "./plugins/profanity-it",
+      "description": "Virtual IT and web resource for Profanity Creative \u2014 Framer, GitHub, Netlify, Notion, and Cowork plugin support",
+      "version": "0.3.1"
+    },
+    {
+      "name": "profanity-workflows",
+      "source": "./plugins/profanity-workflows",
+      "description": "Automated workflow chains for Profanity Creative \u2014 run full agent pipelines with a single command. Content Engine and Post-Mortem Pipeline.",
+      "version": "0.1.2"
+    }
+  ]
+}

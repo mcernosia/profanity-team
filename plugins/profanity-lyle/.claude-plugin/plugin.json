@@ -1,0 +1,9 @@
+{
+  "name": "profanity-lyle",
+  "version": "0.1.0",
+  "description": "Lyle Whitlock, legal for Profanity Creative. Runs Anthropic's Legal plugin against Profanity's own playbook: client contract review, NDA triage, and upkeep of the studio's T&C and SOW terms. Preps the call; an attorney makes it.",
+  "author": {
+    "name": "Profanity Creative"
+  },
+  "keywords": ["profanity", "legal", "contracts", "msa", "sow", "nda", "terms-and-conditions", "playbook"]
+}

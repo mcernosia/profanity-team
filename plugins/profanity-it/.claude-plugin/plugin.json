@@ -1,0 +1,25 @@
+{
+  "name": "profanity-it",
+  "version": "0.3.1",
+  "description": "Virtual IT and web resource for Profanity Creative \u2014 Framer, GitHub, Netlify, Notion, and Cowork plugin support",
+  "author": {
+    "name": "Profanity Creative"
+  },
+  "keywords": [
+    "framer",
+    "github",
+    "git",
+    "netlify",
+    "vercel",
+    "deploy",
+    "figma",
+    "notion",
+    "database",
+    "cowork",
+    "plugins",
+    "web",
+    "deployment",
+    "infrastructure",
+    "project-management"
+  ]
+}
